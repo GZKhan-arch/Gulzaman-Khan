@@ -5,18 +5,15 @@
 🚀 **Senior Software Engineer | DevOps | AI Enthusiast**  
 💡 Passionate about building scalable applications, integrating AI, and solving complex problems.
 
----
 
 ## 📊 GitHub Stats
 ![Gulzaman Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulzamanKhan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulzamanKhan&layout=compact&theme=tokyonight)
 
----
 
 ## 🏆 GitHub Achievements
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=GulzamanKhanh&theme=onedark&margin-w=15&margin-h=15)
 
----
 
 ## 🔧 Technologies & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,4 +28,3 @@
 
 
 ⭐ **Fun Fact:** _I merge pull requests only after three cups of coffee!_ ☕
-
