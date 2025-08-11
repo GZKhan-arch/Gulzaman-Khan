@@ -5,7 +5,6 @@
  **Senior Software Engineer | DevOps | AI Enthusiast**  
  Passionate about building scalable applications, integrating AI, and solving complex problems.
 
-
 ## GitHub Stats
 ![Gulzaman Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulzamanKhan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulzamanKhan&layout=compact&theme=tokyonight)
