@@ -28,16 +28,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
 
-
-
----
-
-## 📈 Contribution Graph
-![Gulzaman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GulzamanKhan&theme=tokyo-night)
-
----
 
 ⭐ **Fun Fact:** _I merge pull requests only after three cups of coffee!_ ☕
 
