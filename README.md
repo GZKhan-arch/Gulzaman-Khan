@@ -9,7 +9,6 @@
 ![Gulzaman Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulzamanKhan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulzamanKhan&layout=compact&theme=tokyonight)
 
-
 ## GitHub Achievements
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=GulzamanKhanh&theme=onedark&margin-w=15&margin-h=15)
 
