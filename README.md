@@ -2,20 +2,20 @@
 <!-- Profile Header -->
 # Hi there, I'm Gulzaman Khan 👋
 
-🚀 **Senior Software Engineer | DevOps | AI Enthusiast**  
-💡 Passionate about building scalable applications, integrating AI, and solving complex problems.
+ **Senior Software Engineer | DevOps | AI Enthusiast**  
+ Passionate about building scalable applications, integrating AI, and solving complex problems.
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Gulzaman Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulzamanKhan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulzamanKhan&layout=compact&theme=tokyonight)
 
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=GulzamanKhanh&theme=onedark&margin-w=15&margin-h=15)
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
